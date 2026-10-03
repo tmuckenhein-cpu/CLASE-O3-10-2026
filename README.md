@@ -1,4 +1,4 @@
-# CLASE-O3-10-2026
+# CLASE O3-10-2026
 Conectando con procesador de texto google 
 > Que encontrara en este repositorio?
 > * Documento con formato:
